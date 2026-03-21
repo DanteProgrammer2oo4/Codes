@@ -1,0 +1,203 @@
+rank,title,year,genre,publisher,developer,platform,playtime
+1,Zelda: Breath of the Wild,2017,Action-Adventure,Nintendo,Nintendo EPD,Switch,50-100
+1,Zelda: Breath of the Wild,2017,Action-Adventure,Nintendo,Nintendo EPD,Switch,50-100
+1,Zelda: Breath of the Wild,2017,Action-Adventure,Nintendo,Nintendo EPD,Switch,50-100
+2,Super Mario Odyssey,2017,Platformer,Nintendo,Nintendo EPD,Switch,15-20
+3,Red Dead Redemption 2,2018,Action-Adventure,Rockstar,Rockstar Studios,PS4,60-80
+4,Witcher 3: Wild Hunt,2015,RPG,CD Projekt,CD Projekt Red,PS4,100-200
+5,Portal 2,2011,Puzzle,Valve,Valve,PC,8-10
+6,Half-Life 2,2004,FPS,Valve,Valve,PC,15-20
+7,Skyrim,2011,RPG,Bethesda,Bethesda Game Studios,PC,100-300
+8,BioShock,2007,FPS,2K Games,Irrational Games,PC,12-15
+9,GTA V,2013,Action-Adventure,Rockstar,Rockstar North,PS4,31-80
+10,Chrono Trigger,1995,RPG,Square,Square,SNES,20-25
+11,Metal Gear Solid,1998,Stealth,Konami,Konami,PS1,12-15
+12,Final Fantasy VII,1997,RPG,Square,Square,PS1,40-50
+13,The Last of Us,2013,Action-Adventure,Sony,Naughty Dog,PS3,15-20
+14,Mass Effect 2,2010,RPG,EA,BioWare,PC,25-30
+15,God of War (2018),2018,Action-Adventure,Sony,Santa Monica,PS4,20-25
+16,Bloodborne,2015,Action RPG,Sony,FromSoftware,PS4,35-40
+17,Super Mario 64,1996,Platformer,Nintendo,Nintendo EPD,N64,15-20
+18,Resident Evil 4,2005,Survival Horror,Capcom,Capcom,GameCube,15-20
+19,Zelda: Ocarina of Time,1998,Action-Adventure,Nintendo,Nintendo EAD,N64,25-30
+20,Sekiro,2019,Action-Adventure,Activision,FromSoftware,PC,30-35
+21,Hollow Knight,2017,Metroidvania,Team Cherry,Team Cherry,PC,25-40
+22,Celeste,2018,Platformer,Matt Makes Games,Extremely OK Games,PC,8-10
+23,Stardew Valley,2016,Simulation,Chucklefish,ConcernedApe,PC,50-100
+24,Minecraft,2011,Sandbox,Mojang,Mojang,PC,Infinite
+25,Doom (1993),1993,FPS,id Software,id Software,PC,4-6
+26,World of Warcraft,2004,MMORPG,Blizzard,Blizzard,PC,Infinite
+27,Street Fighter II,1991,Fighting,Capcom,Capcom,Arcade,Infinite
+28,Tetris,1984,Puzzle,Multiple,Alexey Pajitnov,Multiple,Infinite
+29,Pac-Man,1980,Maze,Namco,Namco,Arcade,Infinite
+30,Super Metroid,1994,Action-Adventure,Nintendo,Nintendo,SNES,8-10
+31,Castlevania: SOTN,1997,Action RPG,Konami,Konami,PS1,8-10
+32,Silent Hill 2,2001,Survival Horror,Konami,Konami,PS2,8-10
+33,Baldur's Gate 3,2023,RPG,Larian Studios,Larian Studios,PC,75-100
+34,Persona 5 Royal,2020,RPG,Atlus,P-Studio,PS4,100-120
+35,Zelda: A Link to the Past,1991,Action-Adventure,Nintendo,Nintendo EAD,SNES,15-20
+36,Super Mario World,1990,Platformer,Nintendo,Nintendo EAD,SNES,6-8
+37,Chrono Cross,1999,RPG,Square,Square,PS1,40-50
+38,Final Fantasy VI,1994,RPG,Square,Square,SNES,35-40
+39,EarthBound,1994,RPG,Nintendo,HAL Laboratory,SNES,25-30
+40,Super Mario Bros. 3,1988,Platformer,Nintendo,Nintendo EAD,NES,5-7
+41,Zelda: Majora's Mask,2000,Action-Adventure,Nintendo,Nintendo EAD,N64,20-25
+42,Metal Gear Solid 3,2004,Stealth,Konami,Konami,PS2,15-20
+43,Half-Life,1998,FPS,Valve,Valve,PC,15-20
+44,Team Fortress 2,2007,FPS,Valve,Valve,PC,Infinite
+45,Left 4 Dead 2,2009,FPS,Valve,Valve,PC,6-8
+46,BioShock Infinite,2013,FPS,2K Games,Irrational Games,PC,12-15
+47,Fallout: New Vegas,2010,RPG,Bethesda,Obsidian,PC,27-50
+48,The Last of Us Part II,2020,Action-Adventure,Sony,Naughty Dog,PS4,25-30
+49,Elden Ring,2022,Action RPG,Bandai Namco,FromSoftware,PC,50-150
+50,Smash Bros. Ultimate,2018,Fighting,Nintendo,Bandai Namco,Switch,Infinite
+51,Persona 4 Golden,2012,RPG,Atlus,Atlus,Vita,70-80
+52,Undertale,2015,RPG,tobyfox,tobyfox,PC,6-10
+53,Disco Elysium,2019,RPG,ZA/UM,ZA/UM,PC,20-30
+54,Outer Wilds,2019,Adventure,Annapurna,Mobius Digital,PC,15-20
+55,Return of the Obra Dinn,2018,Puzzle,3909 LLC,Lucas Pope,PC,8-10
+56,Inside,2016,Puzzle-Platformer,Playdead,Playdead,PC,3-4
+57,Limbo,2010,Puzzle-Platformer,Playdead,Playdead,PC,3-4
+58,Ori and the Blind Forest,2015,Metroidvania,Microsoft,Moon Studios,PC,8-10
+59,Cuphead,2017,Run and Gun,Studio MDHR,Studio MDHR,PC,10-15
+60,Hades,2020,Rogue-like,Supergiant,Supergiant,PC,20-30
+61,Dead Cells,2018,Rogue-like,Motion Twin,Motion Twin,PC,15-20
+62,Slay the Spire,2019,Deck-building,Mega Crit,Mega Crit,PC,50-100
+63,Divinity: Original Sin 2,2017,RPG,Larian Studios,Larian Studios,PC,60-100
+64,Pillars of Eternity,2015,RPG,Obsidian,Obsidian,PC,40-60
+65,Planescape: Torment,1999,RPG,Interplay,Black Isle,PC,40-50
+66,System Shock 2,1999,FPS,EA,Irrational Games,PC,15-20
+67,Deus Ex,2000,FPS,Eidos,Ion Storm,PC,20-25
+68,Thief: The Dark Project,1998,Stealth,Eidos,Looking Glass,PC,15-20
+69,Vampire: Bloodlines,2004,RPG,Activision,Troika Games,PC,20-30
+70,Star Wars: KOTOR,2003,RPG,LucasArts,BioWare,PC,40-50
+71,Jade Empire,2005,RPG,Microsoft,BioWare,PC,20-25
+72,Dragon Age: Origins,2009,RPG,EA,BioWare,PC,40-60
+73,StarCraft,1998,RTS,Blizzard,Blizzard,PC,30-40
+74,Warcraft III,2002,RTS,Blizzard,Blizzard,PC,30-40
+75,Age of Empires II,1999,RTS,Microsoft,Ensemble,PC,40-60
+76,Command & Conquer: Red Alert,1996,RTS,Westwood,Westwood,PC,15-20
+77,Total War: Shogun 2,2011,Strategy,SEGA,Creative Assembly,PC,60-80
+78,Civilization IV,2005,Strategy,2K Games,Firaxis,PC,Infinite
+79,Rome: Total War,2004,Strategy,Activision,Creative Assembly,PC,40-60
+80,XCOM: Enemy Unknown,2012,Strategy,2K Games,Firaxis,PC,30-40
+81,Fire Emblem: Three Houses,2019,Strategy RPG,Nintendo,Intelligent Systems,Switch,60-80
+82,Advance Wars,2001,Strategy,Nintendo,Intelligent Systems,GBA,20-30
+83,Final Fantasy Tactics,1997,Strategy RPG,Square,Square,PS1,40-50
+84,Tactics Ogre,1995,Strategy RPG,Quest,Quest,SNES,40-50
+85,Into the Breach,2018,Strategy,Subset,Subset,PC,10-15
+86,FTL,2012,Rogue-like,Subset,Subset,PC,10-15
+87,RimWorld,2018,Simulation,Ludeon Studios,Ludeon Studios,PC,100+
+88,Kerbal Space Program,2015,Simulation,Private Division,Squad,PC,50-100
+89,Factorio,2020,Simulation,Wube,Wube,PC,100+
+90,SimCity 2000,1993,Simulation,Maxis,Maxis,PC,Infinite
+91,RollerCoaster Tycoon,1999,Simulation,Hasbro,Chris Sawyer,PC,20-30
+92,The Sims,2000,Simulation,EA,Maxis,PC,Infinite
+93,Starcraft II,2010,RTS,Blizzard,Blizzard,PC,25-30
+94,Diablo II,2000,ARPG,Blizzard,Blizzard North,PC,50-100
+95,Path of Exile,2013,ARPG,Grinding Gear,Grinding Gear,PC,100+
+96,Torchlight II,2012,ARPG,Perfect World,Runic Games,PC,15-20
+97,Grim Dawn,2016,ARPG,Crate,Crate,PC,40-60
+98,Titan Quest,2006,ARPG,THQ,Iron Lore,PC,30-40
+99,Borderlands 2,2012,FPS,2K Games,Gearbox,PC,30-50
+100,Destiny 2,2017,FPS,Bungie,Bungie,PC,Infinite
+101,Warframe,2013,Third-person shooter,Digital Extremes,Digital Extremes,PC,Infinite
+102,Monster Hunter: World,2018,Action RPG,Capcom,Capcom,PS4,50-100
+103,Dark Souls,2011,Action RPG,Bandai Namco,FromSoftware,PC,40-60
+104,Dark Souls III,2016,Action RPG,Bandai Namco,FromSoftware,PC,30-40
+105,Demons Souls,2009,Action RPG,Sony,FromSoftware,PS3,25-35
+106,Nioh 2,2020,Action RPG,Koei Tecmo,Team Ninja,PS4,50-70
+107,Dead Space,2008,Survival Horror,EA,EA Redwood,PC,12-15
+108,Resident Evil 2 (2019),2019,Survival Horror,Capcom,Capcom,PS4,8-10
+109,Resident Evil 7,2017,Survival Horror,Capcom,Capcom,PS4,9-12
+110,Silent Hill 3,2003,Survival Horror,Konami,Konami,PS2,8-10
+111,Amnesia,2010,Survival Horror,Frictional,Frictional,PC,8-10
+112,Outlast,2013,Survival Horror,Red Barrels,Red Barrels,PC,5-6
+113,Alien: Isolation,2014,Survival Horror,SEGA,Creative Assembly,PC,15-20
+114,SOMA,2015,Survival Horror,Frictional,Frictional,PC,10-12
+115,Layers of Fear,2016,Psychological Horror,Bloober Team,Bloober Team,PC,4-5
+116,Until Dawn,2015,Interactive Drama,Sony,Supermassive,PS4,8-10
+117,Heavy Rain,2010,Interactive Drama,Sony,Quantic Dream,PS3,10-12
+118,Detroit: Become Human,2018,Interactive Drama,Sony,Quantic Dream,PS4,12-15
+119,Beyond: Two Souls,2013,Interactive Drama,Sony,Quantic Dream,PS3,10-12
+120,Life is Strange,2015,Adventure,Square Enix,Dontnod,PC,12-15
+121,The Walking Dead S1,2012,Adventure,Telltale,Telltale,PC,12-15
+122,Wolfenstein: The New Order,2014,FPS,Bethesda,MachineGames,PC,12-15
+123,Doom (2016),2016,FPS,Bethesda,id Software,PC,11-13
+124,Doom Eternal,2020,FPS,Bethesda,id Software,PC,14-18
+125,Halo: CE,2001,FPS,Microsoft,Bungie,PC,10-12
+126,Halo 2,2004,FPS,Microsoft,Bungie,PC,9-11
+127,Halo 3,2007,FPS,Microsoft,Bungie,Xbox 360,9-11
+128,Battlefield 3,2011,FPS,EA,DICE,PC,6-8
+129,Battlefield 1,2016,FPS,EA,DICE,PC,6-8
+130,CoD 4: Modern Warfare,2007,FPS,Activision,Infinity Ward,PC,6-8
+131,CoD: Modern Warfare 2,2009,FPS,Activision,Infinity Ward,PC,6-8
+132,CoD: Black Ops,2010,FPS,Activision,Treyarch,PC,6-8
+133,Overwatch,2016,FPS,Blizzard,Blizzard,PC,Infinite
+134,Team Fortress Classic,1999,FPS,Valve,Valve,PC,Infinite
+135,Quake III Arena,1999,FPS,id Software,id Software,PC,Infinite
+136,Unreal Tournament 2004,2004,FPS,Epic,Epic,PC,Infinite
+137,Counter-Strike 1.6,2003,FPS,Valve,Valve,PC,Infinite
+138,CS:GO,2012,FPS,Valve,Valve,PC,Infinite
+139,Counter-Strike 2,2023,FPS,Valve,Valve,PC,Infinite
+140,Valorant,2020,FPS,Riot,Riot,PC,Infinite
+141,Apex Legends,2019,Battle Royale,EA,Respawn,PC,Infinite
+142,Fortnite,2017,Battle Royale,Epic,Epic,PC,Infinite
+143,PUBG,2017,Battle Royale,Krafton,PUBG Corp,PC,Infinite
+144,Super Mario Galaxy,2007,Platformer,Nintendo,Nintendo EPD,Wii,15-20
+145,Super Mario Galaxy 2,2010,Platformer,Nintendo,Nintendo EPD,Wii,12-15
+146,Banjo-Kazooie,1998,Platformer,Nintendo,Rare,N64,15-20
+147,Spyro the Dragon,1998,Platformer,Sony,Insomniac,PS1,8-10
+148,Ratchet & Clank (2002),2002,Platformer,Sony,Insomniac,PS2,10-12
+149,Ratchet & Clank 2,2003,Platformer,Sony,Insomniac,PS2,12-15
+150,Rayman Legends,2013,Platformer,Ubisoft,Ubisoft,PC,10-12
+151,Donkey Kong Country,1994,Platformer,Nintendo,Rare,SNES,6-8
+152,Donkey Kong Country 2,1995,Platformer,Nintendo,Rare,SNES,8-10
+153,Crash Bandicoot,1996,Platformer,Sony,Naughty Dog,PS1,6-8
+154,Crash Bandicoot 2,1997,Platformer,Sony,Naughty Dog,PS1,8-10
+155,Crash Bandicoot 3,1998,Platformer,Sony,Naughty Dog,PS1,8-10
+156,Sonic 2,1992,Platformer,Sega,Sega,Genesis,3-4
+157,Sonic Mania,2017,Platformer,Sega,Christian Whitehead,PC,6-8
+158,Mega Man 2,1988,Platformer,Capcom,Capcom,NES,3-4
+159,Mega Man X,1993,Platformer,Capcom,Capcom,SNES,4-5
+160,CastleVania,1986,Platformer,Konami,Konami,NES,2-3
+161,Shovel Knight,2014,Platformer,Yacht Club,Yacht Club,PC,6-8
+162,Hollow Knight: Silksong,2023,Metroidvania,Team Cherry,Team Cherry,PC,TBD
+163,Metroid Prime,2002,Action-Adventure,Nintendo,Retro,GameCube,15-20
+164,Metroid Dread,2021,Action-Adventure,Nintendo,MercurySteam,Switch,9-11
+165,Zelda: Wind Waker,2002,Action-Adventure,Nintendo,Nintendo EAD,GameCube,30-40
+166,Zelda: Twilight Princess,2006,Action-Adventure,Nintendo,Nintendo EAD,GameCube,40-50
+167,Zelda: Skyward Sword,2011,Action-Adventure,Nintendo,Nintendo EAD,Wii,35-45
+168,Okami,2006,Action-Adventure,Capcom,Clover Studio,PS2,35-40
+169,Shadow of the Colossus,2005,Action-Adventure,Sony,Team Ico,PS2,7-9
+170,Ico,2001,Action-Adventure,Sony,Team Ico,PS2,6-8
+171,Journey,2012,Adventure,Sony,thatgamecompany,PS3,2-3
+172,Flower,2009,Adventure,Sony,thatgamecompany,PS3,2-3
+173,Abzû,2016,Adventure,505 Games,Giant Squid,PC,2-3
+174,What Remains of Edith Finch,2017,Adventure,Annapurna,Giant Sparrow,PC,2-3
+175,Gone Home,2013,Adventure,Fullbright,Fullbright,PC,2-3
+176,Firewatch,2016,Adventure,Campo Santo,Campo Santo,PC,4-5
+177,The Stanley Parable,2013,Adventure,Galactic Cafe,Galactic Cafe,PC,2-3
+178,The Beginner's Guide,2015,Adventure,Everything Unlimited,Everything Unlimited,PC,1-2
+179,Her Story,2015,Adventure,Sam Barlow,Sam Barlow,PC,2-3
+180,Telling Lies,2019,Adventure,Annapurna,Sam Barlow,PC,5-6
+181,Heaven's Vault,2019,Adventure,inkle,inkle,PC,15-20
+182,Outer Wilds: DLC,2021,Adventure,Annapurna,Mobius Digital,PC,8-10
+183,Subnautica,2018,Survival Adventure,Unknown Worlds,Unknown Worlds,PC,30-40
+184,Subnautica: Below Zero,2021,Survival Adventure,Unknown Worlds,Unknown Worlds,PC,20-30
+185,The Forest,2018,Survival Horror,Endnight,Endnight,PC,15-20
+186,Sons of the Forest,2023,Survival Horror,Newnight,Endnight,PC,20-30
+187,Green Hell,2019,Survival Horror,Creepy Jar,Creepy Jar,PC,20-30
+188,The Long Dark,2017,Survival Adventure,Hinterland,Hinterland,PC,50+
+189,Raft,2018,Survival Adventure,Redbeet,Redbeet,PC,20-30
+190,Valheim,2021,Survival Adventure,Coffee Stain,Iron Gate,PC,60-100
+191,No Man's Sky,2016,Survival Adventure,Hello Games,Hello Games,PC,Infinite
+192,Astroneer,2019,Survival Adventure,System Era,System Era,PC,20-30
+193,Deep Rock Galactic,2020,Co-op FPS,Coffee Stain,Ghost Ship,PC,100+
+194,Warhammer: Vermintide 2,2018,Co-op FPS,Fatshark,Fatshark,PC,30-40
+195,Back 4 Blood,2021,Co-op FPS,Warner Bros.,Turtle Rock,PC,15-20
+196,World War Z,2019,Co-op FPS,Saber,Saber,PC,20-30
+197,Killing Floor 2,2016,Co-op FPS,Tripwire,Tripwire,PC,30-40
+198,Payday 2,2013,Co-op FPS,Starbreeze,Overkill,PC,100+
+199,Sea of Thieves,2018,Adventure,Rare,Rare,PC,100+
+200,Ghost of Tsushima,2020,Action-Adventure,Sony,Sucker Punch,PS4,25-30
