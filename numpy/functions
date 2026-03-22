@@ -1,0 +1,16 @@
+import numpy as np
+#array = np.zeros(10)
+#array = np.zeros((5,3))
+#array = np.zeros((2,3,4))
+#array = np.ones((10,3))
+
+#array = np.full((2,3,4),7)
+
+#array = np.eye(4)  # identity matrices
+
+#array = np.empty((2,3,4))
+
+#array = np.arange(1,100,0.1)  #start, stop , step (default = 1)
+
+array = np.linspace(0,10,5) #start, stop , num
+print(array)
