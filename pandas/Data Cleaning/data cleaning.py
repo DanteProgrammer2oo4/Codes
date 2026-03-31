@@ -1,6 +1,8 @@
 import pandas as pd
-
-df = pd.read_excel(r"C:\Users\eg\Downloads\vs code programs\report for kifah\Customer Call List.xlsx")
+def load_csv(filename):
+    path = os.path.join(BASE_DIR, "csv", filename)  # Build path to CSV file
+    return pd.read_excel(path)  # Read CSV into DataFrame
+df = load_csv("Customer Call List.xlsx")
 
 df = df.drop_duplicates()
 
