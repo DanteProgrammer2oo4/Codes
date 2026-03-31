@@ -1,5 +1,11 @@
 import pandas as pd
-df = pd.read_csv(r"C:\Users\eg\Downloads\vs code programs\pandas\data.csv")
+import os 
+
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+def load_csv(filename):
+    path = os.path.join(BASE_DIR, filename)  # Build path to csv file
+    return pd.read_csv(path)  # Read csv into DataFrame
+df = load_csv("data.csv")
 
 #print(df.head(10))
 #print(df.head()) first 5 rows
