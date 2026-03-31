@@ -21,5 +21,5 @@ print()
 print(array[0,0,0]) # Multidimensional indexing
                     # faster than chain indexing
 print("\n-------------------------\n")
-word = array[0,2,2]+array[2,2,2]+array[1,0,2]+array[1,1,2]+array[2,1,0]+array[0,1,1]+array[2,2,2]+array[2,2,0]+array[1,1,2]+array[2,0,2]+array[1,2,2]+array[2,2,2]+array[0,0,0] + array[2,0,0] + array[2,0,0]
+word = (array[1][2][0] + array[2][2][0] + array[2][0][1] + array[0][2][1] + array[1][1][2] + array[1][1][1])
 print(word)
