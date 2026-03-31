@@ -1,9 +1,13 @@
 import pandas as pd 
+import os
 # aggregate functions = Reduces a set of values into a single summary value 
 #                       Used to summarize and analyze data
 #                       Often used with groupby() function 
-
-df = pd.read_csv(r"C:\Users\eg\Downloads\vs code programs\pandas\data.csv")
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+def load_csv(filename):
+    path = os.path.join(BASE_DIR, filename)  # Build path to csv file
+    return pd.read_csv(path)  # Read csv into DataFrame
+df = load_csv("data.csv")
 # whole dataframe
 #print(df.mean(numeric_only=True))
 #print(df.sum(numeric_only=True))
